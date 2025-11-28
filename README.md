@@ -7,24 +7,17 @@
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineer based in São Paulo. I specialize in building scalable distributed systems.
+I'm a Software Engineer based in São Paulo with a background in **payments, digital media, and retail**. I specialize in building **scalable distributed systems** and have extensive experience with **backend, frontend, mobile, and infrastructure**.
+I focus on **code and performance optimizations**, **legacy component migrations**, and **refactoring** to reduce complexity in high-traffic environments. I believe in clean code that is maintainable over time.
 
 - 🌱 I’m currently learning about *LLMs, Distributed Systems and Scalability, Software Architecture, Code Agents, and Linux*.
 - ⚡ Fun fact: **I'm a father, a football enthusiast, and a hobbyist cook!**
 
-<br />
-
-<div align="center">
-  <a href="https://github.com/kaic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
-### 🕹️ Projetcs
+### 🕹️ Projects
 
 | Name | Description |
 | :--- | :--- |
-| [**HalfLife Monitoring**](https://github.com/kaic/halflife-monitoring) | Minimal hardware monitoring Half-Life style overlay theme for Rainmeter. |
+| [**HalfLife Monitoring**](https://github.com/kaic/halflife-monitoring) | Minimal hardware monitoring Half-Life style overlay theme for Rainmeter. (C#, .NET) |
 | [**kaic.me**](https://github.com/kaic/kaic.me) | My personal website and digital garden. Built with Next.js and love. |
 
 <br />
@@ -39,9 +32,8 @@ I write about software engineering, career, and tech on my [Substack](https://ka
 - [You're not coding alone anymore: Coding in the age of agents](https://kaicbento.substack.com/p/youre-not-coding-alone-anymore-coding?ref=github.com)
 - [Why did I rewrite my website from scratch to make it (almost) identical?](https://open.substack.com/pub/kaicbento/p/why-did-i-rewrite-my-website-from?r=5vxpr&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true&ref=github.com)
 - [Be your tool's best friend, not its enemy](https://kaicbento.substack.com/p/be-your-tools-best-friend-not-its&ref=github.com)
-
 <br />
 
-### 📫 Connect with va email
+### 📫 Connect via email
 
-[me@kaic.me](malito:me@kaic.me)
+<a href="mailto:me@kaic.me">me@kaic.me</a>
