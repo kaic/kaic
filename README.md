@@ -19,6 +19,7 @@ I focus on **code and performance optimizations**, **legacy component migrations
 | :--- | :--- |
 | [**Win Post Install**](https://kaic.me/win-post-install/) | Windows Post-Install Script Generator: pick apps and system configs, download a `.bat` and let winget do the work. (React, Vite, Tailwind) |
 | [**HalfLife Monitoring**](https://github.com/kaic/halflife-monitoring) | Minimal hardware monitoring Half-Life style overlay theme for Rainmeter. (C#, .NET) |
+| [**Motion-With-Accelerometer**](https://github.com/kaic/Motion-With-Accelerometer) | How to get position, velocity and acceleration of an Arduino using an accelerometer and integral calculus. (C, Arduino) |
 | [**kaic.me**](https://github.com/kaic/kaic.github.io) | My personal website and digital garden. Built with Next.js and love. |
 
 <br />
